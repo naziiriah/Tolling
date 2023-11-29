@@ -1,0 +1,15 @@
+C:\Users\NAZIR\OneDrive\Documents\Learn c#\Toll\bin\Debug\net7.0\Toll.exe
+C:\Users\NAZIR\OneDrive\Documents\Learn c#\Toll\bin\Debug\net7.0\Toll.deps.json
+C:\Users\NAZIR\OneDrive\Documents\Learn c#\Toll\bin\Debug\net7.0\Toll.runtimeconfig.json
+C:\Users\NAZIR\OneDrive\Documents\Learn c#\Toll\bin\Debug\net7.0\Toll.dll
+C:\Users\NAZIR\OneDrive\Documents\Learn c#\Toll\bin\Debug\net7.0\Toll.pdb
+C:\Users\NAZIR\OneDrive\Documents\Learn c#\Toll\obj\Debug\net7.0\Toll.csproj.AssemblyReference.cache
+C:\Users\NAZIR\OneDrive\Documents\Learn c#\Toll\obj\Debug\net7.0\Toll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAZIR\OneDrive\Documents\Learn c#\Toll\obj\Debug\net7.0\Toll.AssemblyInfoInputs.cache
+C:\Users\NAZIR\OneDrive\Documents\Learn c#\Toll\obj\Debug\net7.0\Toll.AssemblyInfo.cs
+C:\Users\NAZIR\OneDrive\Documents\Learn c#\Toll\obj\Debug\net7.0\Toll.csproj.CoreCompileInputs.cache
+C:\Users\NAZIR\OneDrive\Documents\Learn c#\Toll\obj\Debug\net7.0\Toll.dll
+C:\Users\NAZIR\OneDrive\Documents\Learn c#\Toll\obj\Debug\net7.0\refint\Toll.dll
+C:\Users\NAZIR\OneDrive\Documents\Learn c#\Toll\obj\Debug\net7.0\Toll.pdb
+C:\Users\NAZIR\OneDrive\Documents\Learn c#\Toll\obj\Debug\net7.0\Toll.genruntimeconfig.cache
+C:\Users\NAZIR\OneDrive\Documents\Learn c#\Toll\obj\Debug\net7.0\ref\Toll.dll
